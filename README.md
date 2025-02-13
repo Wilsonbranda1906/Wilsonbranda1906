@@ -1,8 +1,8 @@
 Olá, meu nome é Wilson Miguel Branda! 
 
 
-Estudante de ciências da computação
-Estou iniciando em programação, linguagem java e posteriormente quero aprender o javascript. Sonho trabalho como desenvolvedor. 
+*Estudante de ciências da computação*
+*Estou iniciando em programação, linguagem java e posteriormente quero aprender o javascript. Sonho trabalho como desenvolvedor.* 
 * 🌍 Estou baseado em Luanda-Angola*
 * ✉️ Você pode entrar em contato comigo em [wilsonbranda1906@gmail.com](mailto:wilsonbranda1906@gmail.com)[](mailto:wilsonbranda1906@gmail.com) *
 * 🧠 Estou aprendendo Java e JavaScript *
